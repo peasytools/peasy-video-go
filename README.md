@@ -12,7 +12,7 @@ Built from [PeasyVideo](https://peasyvideo.com), a comprehensive video processin
 > **Try the interactive tools at [peasyvideo.com](https://peasyvideo.com)** — [Video Resolution Calculator](https://peasyvideo.com/video/video-resolution/), [Video Bitrate Calculator](https://peasyvideo.com/video/video-bitrate/), [Video Framerate Converter](https://peasyvideo.com/video/video-framerate/), and more.
 
 <p align="center">
-  <img src="demo.gif" alt="peasy-video-go demo — video resolution calculation and codec analysis tools in Go terminal" width="800">
+  <a href="https://agentgif.com/C9jQVzN3"><img src="https://media.agentgif.com/C9jQVzN3.gif" alt="peasy-video-go demo — video resolution calculation and codec analysis tools in Go terminal" width="800"></a>
 </p>
 
 ## Table of Contents
